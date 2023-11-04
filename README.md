@@ -1,3 +1,10 @@
+Tugas Kelompok Merpati
+M. Annadvi Jundi Abdurobbirosul
+Moh. Aditya Baihaqi
+Erik Pratama(Angkasa)
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
